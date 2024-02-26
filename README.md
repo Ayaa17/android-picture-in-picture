@@ -44,4 +44,4 @@ Android Picture-in-Picture (PiP) 是 Android 系統提供的一項強大的多�
 
 ```
 
-![image]{https://github.com/Ayaa17/android-picture-in-picture/blob/master/screenshot.png}
+![image](https://github.com/Ayaa17/android-picture-in-picture/blob/master/screenshot.png)
